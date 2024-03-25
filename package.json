@@ -9,6 +9,10 @@
       "build": "webpack --display-error-details --config webpack.config.js"
       },
     "author": "",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yzend/yccompents.git"
+    },
     "license": "ISC",
     "devDependencies": {
           "babel-core": "^6.26.0",
